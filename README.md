@@ -20,5 +20,3 @@ I practice structured learning and document my progress.<br>
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ## 📂 Projects (In Progress)
-- SQL query practice notebooks
-- Python data analysis mini-projects
