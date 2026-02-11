@@ -19,4 +19,10 @@ I practice structured learning and document my progress.<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+## 🚀 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Msriya_?theme=dark&font=Baloo&ext=heatmap)
+
 ## 📂 Projects (In Progress)
+
