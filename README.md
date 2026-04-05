@@ -20,14 +20,14 @@ I specialize in transforming complex datasets into actionable insights using Mac
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-## 📂 Key Projects:
-### 🚗 [Traffic Volume Forecasting](https://github.com/sriya-bit/traffic-forecasting)
+## 📂 Key Projects (Explore via Repositories tab):
+### 🚗 Traffic Volume Forecasting
 *Predicted urban traffic patterns using historical data to optimize route planning. (Uber/MentorMind Project)*
 
-### 🤖 [Retail Analytics GenAI Chatbot](https://github.com/sriya-bit/retail-genai-bot)
+### 🤖 Retail Analytics GenAI Chatbot
 *A chatbot powered by the Gemini API that provides real-time business insights from structured retail data.*
 
-### 📊 [SQL Case Study Vault](https://github.com/sriya-bit/SQL-Portfolio)
+### 📊 SQL Case Study Vault
 *A collection of expert-level SQL solutions covering complex joins, window functions, and data cleaning.*
 
 ---
